@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure<b>
   
-  - [First Resource Group and Storage Account](https://github.com/lwshanks/First-Resource)
+  - [First Resource Group and Storage Account](https://github.com/lwshanks/First-Resourse)
   
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/lwshanks/azure-network-protocols/blob/main/README.md)
   

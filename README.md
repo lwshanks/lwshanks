@@ -2,14 +2,21 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/lwshanks/osticket-prereqs)
- 
+- <b>Microsoft Azure<b>
   
-- <b>Microsoft Azure</b>
+  - [First Resource Group and Storage Account](https://github.com/lwshanks/First-Resource)
   
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/lwshanks/azure-network-protocols/blob/main/README.md)
-  - [First Resource Group and Storage Account](https://github.com/lwshanks/First-Resourse)
+  
+  
+ 
+- <b>osTicket (Help Desk Ticketing System)<b> 
+  
+  - [osTicket: Prerequisites and Installation](https://github.com/lwshanks/osticket-prereqs)
+
+  
+
+ 
 
 <h2>🤳Connect with me:</h2>
 
